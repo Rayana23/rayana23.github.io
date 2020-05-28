@@ -1263,7 +1263,7 @@ blockquote {
 .cid-rZrorFtL8f {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #fffafa;
+  background-color: #fff1f1;
 }
 @media (min-width: 400px) {
   .cid-rZrorFtL8f h2 {
@@ -1339,7 +1339,7 @@ blockquote {
 .cid-s0dRGSOiGH #e3_circle,
 .cid-s0dRGSOiGH #e4_circle,
 .cid-s0dRGSOiGH #e5_circle {
-  fill: #fee7e7 !important;
+  fill: #fadae3 !important;
 }
 .cid-s0dRGSOiGH #e6_circle {
   fill: #fff4f4 !important;
@@ -1363,7 +1363,7 @@ blockquote {
 .cid-s0dRGSOiGH .round {
   border-radius: 100%;
   position: absolute;
-  background-color: #fee7e7;
+  background-color: #fadae3;
   animation: orbit 4s linear infinite;
 }
 .cid-s0dRGSOiGH .rev {
