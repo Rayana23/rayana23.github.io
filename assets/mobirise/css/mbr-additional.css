@@ -5075,6 +5075,99 @@ blockquote {
 .cid-rHd4LPs6LH .navbar-dropdown .navbar-logo {
   margin-right: 0.8rem;
 }
+.cid-s1lWghcRc0 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #faefef;
+}
+.cid-s1lWghcRc0 a:link {
+  text-decoration: none;
+}
+.cid-s1lWghcRc0 .icon-transition span {
+  padding: 0.1rem 0.9rem;
+  border-radius: 50%;
+  color: #ffffff;
+  display: block;
+  height: 3em;
+  line-height: 3em;
+  width: 3em;
+  background: #444444 none repeat scroll 0 0;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 14px;
+}
+.cid-s1lWghcRc0 .icon-transition span:hover {
+  background-color: #fa6992;
+}
+.cid-s1lWghcRc0 .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-s1lWghcRc0 .social-media ul li {
+  padding: 4px;
+  display: inline-block;
+}
+.cid-s1lWghcRc0 .foot-menu {
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  margin: 0;
+  margin-bottom: 8px;
+  padding: .6em 0;
+}
+.cid-s1lWghcRc0 .foot-menu > li {
+  font-size: 14px;
+  padding: 0;
+  display: inline-block;
+}
+.cid-s1lWghcRc0 .foot-menu > li .rhombus {
+  width: 0;
+  height: 0;
+  right: 4px;
+  border: 4px solid transparent;
+  border-bottom-color: #ab6b7d;
+  position: relative;
+  top: -19px;
+}
+.cid-s1lWghcRc0 .foot-menu > li .rhombus::after {
+  width: 0;
+  height: 0;
+  content: '';
+  position: absolute;
+  left: -4px;
+  top: 4px;
+  border: 4px solid transparent;
+  border-top-color: #ab6b7d;
+}
+.cid-s1lWghcRc0 .foot-menu li a {
+  font-family: 'OpenSans', sans-serif;
+  display: inline-block;
+  letter-spacing: 2px;
+  padding: 0 10px;
+}
+.cid-s1lWghcRc0 .plan-title,
+.cid-s1lWghcRc0 .text-letter {
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-weight: 600;
+}
+.cid-s1lWghcRc0 .plan-title {
+  color: #444444;
+}
+@media (max-width: 767px) {
+  .cid-s1lWghcRc0 .foot-menu {
+    padding: 15px 1rem;
+  }
+}
+.cid-s1lWghcRc0 .mbr-section-title span {
+  color: #ffbc00;
+}
+.cid-s1lWghcRc0 .mbr-section-title {
+  color: #fff0f4;
+}
+.cid-s1lWghcRc0 .mbr-text {
+  color: #ab6b7d;
+}
 .cid-rZxTdOFq5h {
   background-color: #000000;
 }
