@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&display=swap&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Muli:300,300i,400,600,600i,700,700i,800,800i,900,900i&display=swap&display=swap);
 
 
@@ -456,7 +456,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #593A43 !important;
+  color: #fac3d3 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -531,10 +531,22 @@ a.text-black:focus {
   display: none;
 }
 #scrollToTop a {
-  background: #444444;
+  background: #fadae3;
 }
-#scrollToTop a i:before {
-  background: #ffffff;
+#scrollToTop a:after {
+  content: '';
+  position: absolute;
+  top: -7px;
+  left: -7px;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  border: 2px dashed #fadae3;
+  animation: spin_left 5s linear infinite;
+  animation-play-state: paused;
+}
+#scrollToTop a:hover::after {
+  animation-play-state: running;
 }
 #scrollToTop a i:after {
   border-top: 2px solid #ffffff;
@@ -2635,6 +2647,7 @@ blockquote {
 .cid-rHeF7yqba7 .card-title,
 .cid-rHeF7yqba7 .wrapper {
   text-align: left;
+  color: #000000;
 }
 .cid-rZnm4dSEDZ {
   padding-top: 45px;
